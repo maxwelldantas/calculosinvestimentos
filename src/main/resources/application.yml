@@ -1,0 +1,11 @@
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: basic
+
+api:
+  rest:
+    selic: "https://www3.bcb.gov.br/novoselic/rest/taxaSelicApurada/pub/search?page=1&pageSize=20"
