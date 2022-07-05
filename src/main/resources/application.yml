@@ -8,4 +8,4 @@ feign:
 
 api:
   rest:
-    selic: "https://www3.bcb.gov.br/novoselic/rest/taxaSelicApurada/pub/search?page=1&pageSize=20"
+    selic: "https://www3.bcb.gov.br/novoselic/rest/taxaSelicApurada/pub/search?pageSize=20"
